@@ -1,0 +1,13 @@
+D:\Documents\C#\TextEditor\TextEditor\bin\Debug\TextEditor.exe.config
+D:\Documents\C#\TextEditor\TextEditor\bin\Debug\TextEditor.exe
+D:\Documents\C#\TextEditor\TextEditor\bin\Debug\TextEditor.pdb
+D:\Documents\C#\TextEditor\TextEditor\bin\Debug\FlatUI.dll
+D:\Documents\C#\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.AssemblyReference.cache
+D:\Documents\C#\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.SuggestedBindingRedirects.cache
+D:\Documents\C#\TextEditor\TextEditor\obj\Debug\TextEditor.Form1.resources
+D:\Documents\C#\TextEditor\TextEditor\obj\Debug\TextEditor.Properties.Resources.resources
+D:\Documents\C#\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.GenerateResource.cache
+D:\Documents\C#\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.CoreCompileInputs.cache
+D:\Documents\C#\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.CopyComplete
+D:\Documents\C#\TextEditor\TextEditor\obj\Debug\TextEditor.exe
+D:\Documents\C#\TextEditor\TextEditor\obj\Debug\TextEditor.pdb
